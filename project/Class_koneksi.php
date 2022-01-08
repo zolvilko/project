@@ -5,7 +5,7 @@
 class Koneksi
 {
 	private $host = 'localhost';
-    private $db = 'akademik';
+    private $db = 'project';
     private $user = 'root';
     private $pass = '';
     protected $conn;
